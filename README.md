@@ -82,15 +82,15 @@ Kenya is rich in travel opportunities—from the Maasai Mara to the Indian Ocean
 ## 📁 Folder Structure
 ```
 tembeasmart/
-├── data/                   # Datasets (raw, cleaned, or scraped travel data)
-├── notebooks/              # Jupyter notebooks for EDA and ML experimentation
-├── backend/                # Flask or Django backend logic and APIs
-├── frontend/               # React or Streamlit-based user interface
-├── models/                 # Saved/trained machine learning models (.pkl, .joblib)
-├── static/                 # Static files: images, CSS, logos, icons
-├── utils/                  # Utility scripts: preprocessing, helper functions
-├── README.md               # Project overview and documentation
-└── requirements.txt        # Python dependencies list for installation
+├── data/                  
+├── notebooks/             
+├── backend/                
+├── frontend/              
+├── models/                
+├── static/                 
+├── utils/                  
+├── README.md              
+└── requirements.txt       
 
 ---
 
@@ -158,7 +158,7 @@ Coming soon: Interactive walkthrough video + live app
 
 ## 🤝 Contributing
 
-Pull requests are welcome! For feature requests or bug reports, please [open an issue](https://github.com/yourusername/tembeasmart/issues).
+Pull requests are welcome! For feature requests or bug reports, please [open an issue](https://github.com/official-okello/TembeaSmart/issues).
 
 ---
 
@@ -171,9 +171,9 @@ Distributed under the MIT License. See `LICENSE` for more info.
 ## 🙋‍♂️ Developer
 
 **Julius Okello**
-Machine Learning Developer | Double Bassist
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+Machine Learning Developer
+📧 Email: [youremail@example.com](mailto:officialokello@gmail.com)
+🔗 GitHub: [@yourusername](https://github.com/official-okello)
 
 ---
 
