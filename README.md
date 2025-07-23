@@ -98,8 +98,8 @@ tembeasmart/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/tembeasmart.git
-cd tembeasmart
+git clone https://github.com/official-okello/TembeaSmart.git
+cd TembeaSmart
 ````
 
 ### 2. Create a Virtual Environment
