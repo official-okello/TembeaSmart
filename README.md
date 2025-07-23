@@ -172,8 +172,8 @@ Distributed under the MIT License. See `LICENSE` for more info.
 
 **Julius Okello**
 Machine Learning Developer
-📧 Email: [youremail@example.com](mailto:officialokello@gmail.com)
-🔗 GitHub: [@yourusername](https://github.com/official-okello)
+📧 Email: [officialokello@gmail.com](mailto:officialokello@gmail.com)
+🔗 GitHub: [@official-okello](https://github.com/official-okello)
 
 ---
 
