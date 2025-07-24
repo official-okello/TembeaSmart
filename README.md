@@ -1,7 +1,8 @@
 ```markdown
 # 🧭 TembeaSmart – AI Travel Planner for Kenya 🇰🇪
 
-**TembeaSmart** is an intelligent travel planning and recommendation system that helps users explore Kenya like never before. Whether you're planning a beach escape, safari, hiking trip, or cultural tour, TembeaSmart generates personalized itineraries using machine learning and real-time data.
+TembeaSmart is an intelligent travel planning and recommendation system that helps users explore Kenya like never before.
+Whether you're planning a beach escape, safari, hiking trip, or cultural tour, TembeaSmart generates personalized itineraries using machine learning and real-time data.
 
 ---
 
